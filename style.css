@@ -1,5 +1,5 @@
 html {
-    background: url(overlays/pattern2.jpg);
+    background: url(pattern2.jpg);
     color: antiquewhite;
 }
 
@@ -93,4 +93,5 @@ nav, main {
     border-radius: 12px;
 
 }
+
 
